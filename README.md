@@ -1,0 +1,2 @@
+# enkripsi-file 
+required openssl
